@@ -36,11 +36,11 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_1} alt="" />
                 <div>
-                  <h3>rehan karbu</h3>
+                  <h3>roby hardisk</h3>
                   <span>edusity, ina</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolor, repellendus perferendis consequuntur iusto beatae omnis quam natus molestias adipisci. Nulla fugit, vero saepe accusantium quas beatae exercitationem!</p>
+              <p>surga kaum adam ceweknya pada cantik</p>
             </div>
           </li>
           <li>
@@ -52,7 +52,7 @@ const Testimonials = () => {
                   <span>edusity, ina</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolor, repellendus perferendis consequuntur iusto beatae omnis quam natus molestias adipisci. Nulla fugit, vero saepe accusantium quas beatae exercitationem!</p>
+              <p>ada makan gratisnya cuy, lets go!</p>
             </div>
           </li>
           <li>
@@ -60,11 +60,11 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_3} alt="" />
                 <div>
-                  <h3>rehan karbu</h3>
+                  <h3>abdul kebab</h3>
                   <span>edusity, ina</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolor, repellendus perferendis consequuntur iusto beatae omnis quam natus molestias adipisci. Nulla fugit, vero saepe accusantium quas beatae exercitationem!</p>
+              <p>p info loker</p>
             </div>
           </li>
           <li>
@@ -72,11 +72,11 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_4} alt="" />
                 <div>
-                  <h3>rehan karbu</h3>
+                  <h3>bagas oli samping</h3>
                   <span>edusity, ina</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolor, repellendus perferendis consequuntur iusto beatae omnis quam natus molestias adipisci. Nulla fugit, vero saepe accusantium quas beatae exercitationem!</p>
+              <p>au ah malas pen beli truck</p>
             </div>
           </li>
         </ul>
