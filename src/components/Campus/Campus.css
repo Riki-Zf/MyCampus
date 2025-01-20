@@ -1,5 +1,5 @@
 .campus {
-  margin: 80px;
+  margin: 80px auto;
   width: 90%;
   text-align: center;
 }
@@ -12,4 +12,16 @@
 .gallery img {
   width: 23%;
   border-radius: 10px;
+}
+
+/* Mobile devices (320px to 480px) */
+@media (max-width: 800px) {
+  .gallery {
+    flex-wrap: wrap;
+  }
+
+  .gallery img {
+    width: 48%;
+    margin-bottom: 25px;
+  }
 }

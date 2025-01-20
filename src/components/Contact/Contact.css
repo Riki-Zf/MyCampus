@@ -50,3 +50,14 @@
   display: block;
   margin: 20px 0;
 }
+
+/* claude ai */
+/* Mobile devices (320px to 480px) */
+@media (max-width: 7000px) {
+  .contact {
+    display: block;
+  }
+  .contact-col {
+    padding: 20px;
+  }
+}
