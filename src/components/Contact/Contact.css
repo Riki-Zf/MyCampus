@@ -53,7 +53,7 @@
 
 /* claude ai */
 /* Mobile devices (320px to 480px) */
-@media (max-width: 7000px) {
+@media (max-width: 700px) {
   .contact {
     display: block;
   }
