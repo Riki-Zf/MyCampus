@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # MyCampus
-project masih dalam tahap pengembangan
+project Completed
 >>>>>>> 6f6e54cacb8d60b86d232319d7d87da153d46335
